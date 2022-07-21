@@ -17,11 +17,11 @@
 #skull{
     display: flex;
     justify-content: center;
-    font-size: 70px;
+    font-size: 150%;
 }
 .author{
     text-align: end;
-    font-size:20px;
+    font-size:50%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
     font-style: oblique;
 }
@@ -38,14 +38,14 @@
     border-bottom-right-radius: 7px;
 }
 .navi>i{
-    font-size: 18px;
+    font-size: 150%;
     color: aquamarine;
 }
 .navi>a{
     color: aliceblue;
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 130%;
 }
 .navi>a:hover{
     color: rgb(158, 255, 240);
@@ -65,7 +65,7 @@
 }
 .ques>form>p{
     font-weight: 600;
-    font-size: large;
+    font-size: 125%;
 }
 .submitdiv{
     display: flex;
@@ -104,7 +104,7 @@
 }
 .all{
     background-color:rgb(255, 255, 255) ;
-    padding: 5px;
+    padding: 0.5%;
     border-radius: 7px;
     margin: 10%;
     margin-top: 4%;
